@@ -1,0 +1,4 @@
+tmp/
+*_old
+img\thumbs.db
+.DS_Store
